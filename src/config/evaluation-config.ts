@@ -6,7 +6,7 @@
 
 export const config = {
   apiUrl:"https://instituto.cetivirgendelapuerta.com/evaluacion/backend/public",
-  //apiUrl:"http://127.0.0.1:8000",
+  //apiUrl:"http://127.0.0.1:8000", 
   environment:"development",
   endpoints: {
 
